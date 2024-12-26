@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Go: an array index out of bounds error. The bug.go file contains code that attempts to access an element of an array using an index that is out of range. The bugSolution.go file provides a corrected version of the code that avoids this error.
